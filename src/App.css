@@ -1,0 +1,22 @@
+html, body {
+  background-color: #282c34;
+  color: white;
+  text-align: center;
+}
+
+.App-header ul {
+  list-style: none;
+  padding: 0;
+}
+
+.App-header li {
+  text-decoration: none;
+}
+
+.App-header a {
+  color: white;
+  text-decoration: none;
+}
+.App-header a:hover {
+  color: coral;
+}
