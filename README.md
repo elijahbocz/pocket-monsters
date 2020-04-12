@@ -1,4 +1,4 @@
-#Pocket Monsters
+# Pocket Monsters
 Flask API backend that hits the [PokeAPI](https://pokeapi.co/) for search from the React frontend.
 
 Ensure you have environment variables set up for your flask app in a .env.
