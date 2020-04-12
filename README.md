@@ -10,7 +10,7 @@ If not, inside the API folder:
 
 `EXPORT FLASK_ENV=development`
 
-Then, start the Flask API:
+Then, in the root directory start the Flask API:
 
 `npm run start-api`
 
