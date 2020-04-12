@@ -18,4 +18,4 @@ And start the frontend:
 
 `npm run start`
 
-Access the development server on port 3000 of localhost, the flask backend will be running on port 5000.
+Access the React development server on port 3000 of localhost, the Flask backend will be running on port 5000.
