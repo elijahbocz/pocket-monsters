@@ -1,5 +1,5 @@
 # Pocket Monsters
-Flask API backend that hits the [PokeAPI](https://pokeapi.co/) for search from the React frontend.
+Flask API backend that hits the [PokeAPI](https://pokeapi.co/) from searchs input in the React frontend.
 
 Ensure you have environment variables set up for your flask app in a .env.
 If not, inside the API folder:
